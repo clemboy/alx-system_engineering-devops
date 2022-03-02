@@ -1,3 +1,2 @@
 #!/bin/bash
 pwd
-$git chmod +x 0-current_working_directory
